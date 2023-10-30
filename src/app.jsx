@@ -1,5 +1,5 @@
 import React from "react";
-import Platform from "myplatformapp/index";
+import Platform from "nuc-platform-vite/index";
 
 import theme from "./config/theme";
 import routes from "./config/routes";
